@@ -33,7 +33,7 @@
 
 </profile>
 
-<profile><id>Smoke</id>
+<profile><id>Smoke testing</id>
 
 <build>
     <pluginManagement>

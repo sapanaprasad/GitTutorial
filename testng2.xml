@@ -4,7 +4,7 @@
   <test thread-count="5" name="Tests">
     <classes>
       <class name="ecommerce.AppiumTest"/>
-     
+      <class name="ecommerce.RestApiTest"/>
       
     </classes>
   </test> <!-- Test -->

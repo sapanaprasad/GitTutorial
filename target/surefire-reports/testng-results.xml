@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-28T13:54:19 PST" name="Suite" finished-at="2022-01-28T13:54:19 PST" duration-ms="31">
+    <groups>
+    </groups>
+    <test started-at="2022-01-28T13:54:19 PST" name="Test" finished-at="2022-01-28T13:54:19 PST" duration-ms="31">
+      <class name="ecommerce.AppiumTest">
+        <test-method signature="iosApp()[pri:0, instance:ecommerce.AppiumTest@662b4c69]" started-at="2022-01-28T13:54:19 PST" name="iosApp" finished-at="2022-01-28T13:54:19 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iosApp -->
+        <test-method signature="nativeapp()[pri:0, instance:ecommerce.AppiumTest@662b4c69]" started-at="2022-01-28T13:54:19 PST" name="nativeapp" finished-at="2022-01-28T13:54:19 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeapp -->
+      </class> <!-- ecommerce.AppiumTest -->
+      <class name="ecommerce.SeleniumTest">
+        <test-method signature="BrowserAutomation()[pri:0, instance:ecommerce.SeleniumTest@7133da86]" started-at="2022-01-28T13:54:19 PST" name="BrowserAutomation" finished-at="2022-01-28T13:54:19 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method signature="elementui()[pri:0, instance:ecommerce.SeleniumTest@7133da86]" started-at="2022-01-28T13:54:19 PST" name="elementui" finished-at="2022-01-28T13:54:19 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementui -->
+      </class> <!-- ecommerce.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

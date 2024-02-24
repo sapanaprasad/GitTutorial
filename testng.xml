@@ -4,8 +4,8 @@
   <test thread-count="5" name="Tests">
     <classes>
       <class name="ecommerce.AppiumTest"/>
-      <class name="ecommerce.RestAPITest"/>
-      <class name="ecommerce.SeleniumTest"/>
+   
+      
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

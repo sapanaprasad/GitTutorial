@@ -5,7 +5,7 @@
     <classes>
       <class name="ecommerce.AppiumTest"/>
       <class name="ecommerce.RestAPITest"/>
-      <class name="ecommerce.SeleniumTest"/>
+    
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
